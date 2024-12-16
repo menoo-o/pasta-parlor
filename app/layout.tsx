@@ -4,8 +4,8 @@ import "./globals.css";
 
 
 export const metadata: Metadata = {
-  title: "Create Next App",
-  description: "Pasta Parlor | Coming Soon..",
+  title: "Pasta Parlor | Coming Soon",
+  description: "Pasta Shop",
 };
 
 export default function RootLayout({
