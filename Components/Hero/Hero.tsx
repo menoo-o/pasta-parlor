@@ -8,7 +8,7 @@ export default function Hero() {
       <>
         <div className="hero">
           <Image 
-            src="/pastaa.jpg" 
+            src="/hero.webp" 
             alt="hero-img" 
             className="hero-img"  
             width={1550}
@@ -31,7 +31,7 @@ export default function Hero() {
           <div className="links">
             <Link href='/'>Home</Link>
             <Link href='/'>SHOP</Link>
-            <Link href='/merch'>RECIPES</Link>
+            <Link href='/'>RECIPES</Link>
             <Link href='/'>Contact</Link>
             <Link href='/'>About</Link>
           </div>
